@@ -32,13 +32,14 @@
   <img src="/images/github-logo.png" 
   alt="Website" 
   height="75" 
-  style="float:left"> </a> 
-  <img src="/images/golden-monkey.gif" 
-  height="75" 
-  style="float:right; clear: both"> 
+  style="float:left; clear:both"> </a>  
 </p>
 
 <h2 style="font-family: 'Courier New', Courier, monospace; float:left">About Me</h2>
+
+<img src="/images/golden-monkey.gif" 
+  height="75" 
+  style="float:right">
 
 <p>
   <ul style="font-family: 'Courier New', Courier, monospace; float:right">
