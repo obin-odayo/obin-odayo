@@ -46,14 +46,14 @@
     <li> <b>First Programming language</b>: Python 
     <li> <b>Currently Learning</b>: Python Libraries, HTML and CSS
     <li> <b>Contact</b>: 
-    <ul>aan#9904
+    <ul>Z1aaan#9904
     </ul>
   </ul> 
 </p>
 
 <h2 style="font-family: 'Courier New', Courier, monospace;">Things I Know </h2>
 
-<table>
+<table style="margin-left: auto; margin-right: auto;">
   <tr>
     <th>
       <abbr title="C++">
