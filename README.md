@@ -1,6 +1,7 @@
 <h1 style="font-family: 'Courier New', Courier, monospace;">
   Hello!
-  <img style="width:7%"  src="/images/wave-hi.gif">
+  <img style="width:7%"  src="/images/wave-hi.gif">,
+  I am <code>Z1aaan</code>
 </h1>
 
 <h2 style="font-family: 'Courier New', Courier, monospace;">GitHub Statistics</h2>
@@ -26,20 +27,21 @@
     
 </p>
 
-<h2 style="font-family: 'Courier New', Courier, monospace;">About Me</h2>
-
 <p>
   <a href="https://z1aaan.github.io/index.html" target="_blank"> 
   <img src="/images/github-logo.png" 
   alt="Website" 
   height="75" 
-  style="display: block;
-  margin-left: auto;
-  margin-right: auto;"> </a>
+  style="float:left"> </a> 
+  <img src="/images/golden-monkey.gif" 
+  height="75" 
+  style="float:right; clear: both"> 
 </p>
 
+<h2 style="font-family: 'Courier New', Courier, monospace; float:left">About Me</h2>
+
 <p>
-  <ul style="font-family: 'Courier New', Courier, monospace;">
+  <ul style="font-family: 'Courier New', Courier, monospace; float:right">
     <li> Hello I am Zhean "<i>Z1aaan</i>" Ganituen.
     <li> An amateur python programmer
     <li> Self studying computer programming, computer graphics, and artificial intelligence.
@@ -51,7 +53,7 @@
   </ul> 
 </p>
 
-<h2 style="font-family: 'Courier New', Courier, monospace;">Things I Know </h2>
+<h2 style="font-family: 'Courier New', Courier, monospace; float: left">Things I Know </h2>
 
 <table>
   <tr>
