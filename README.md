@@ -41,16 +41,14 @@
 <th>
 <img src="/images/golden-monkey.gif" 
   height="100"></th>
-<th><p style>
+<th style="text-align: left"><p>
   <ul style="font-family: 'Courier New', Courier, monospace; font-size:12px">
     <li> Hello I am Zhean "<i>Z1aaan</i>" Ganituen.
     <li> An amateur python programmer
     <li> Self studying computer programming, computer graphics, and artificial intelligence.
     <li> <b>First Programming language</b>: Python 
     <li> <b>Currently Learning</b>: Python Libraries, HTML and CSS
-    <li> <b>Contact</b>: 
-    <ul>Z1aaan#9904
-    </ul>
+    <li> <b>Contact</b>: Z1aaan#9904
   </ul> 
 </p></th>
 </tr>
