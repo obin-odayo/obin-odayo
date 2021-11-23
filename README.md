@@ -27,32 +27,36 @@
     
 </p>
 
-<p>
-  <a href="https://z1aaan.github.io/index.html" target="_blank"> 
-  <img src="/images/github-logo.png" 
-  alt="Website" 
-  height="75" > </a>  
-</p>
-
 <h2 style="font-family: 'Courier New', Courier, monospace">About Me</h2>
 
 <table>
 <tr>
-<th>
-<img src="/images/golden-monkey.gif" 
-  height="100"></th>
-<th style="text-align: left"><p>
-  <ul style="font-family: 'Courier New', Courier, monospace; font-size:12px">
-    <li> Hello I am Zhean "<i>Z1aaan</i>" Ganituen.
-    <li> An amateur python programmer
-    <li> Self studying computer programming, computer graphics, and artificial intelligence.
-    <li> <b>First Programming language</b>: Python 
-    <li> <b>Currently Learning</b>: Python Libraries, HTML and CSS
-    <li> <b>Contact</b>: Z1aaan#9904
-  </ul> 
-</p></th>
+  <th><img src="/images/golden-monkey.gif" 
+    height="100"></th>
+  <th style="text-align: left"><p>
+    <ul style="font-family: 'Courier New', Courier, monospace; font-size:12px">
+      <li> Hello I am Zhean "<i>Z1aaan</i>" Ganituen.
+      <li> An amateur python programmer
+      <li> Self studying computer programming, computer graphics, and artificial intelligence.
+      <li> <b>First Programming language</b>: Python 
+      <li> <b>Currently Learning</b>: Python Libraries, HTML and CSS
+      <li> <b>Contact</b>: Z1aaan#9904
+    </ul> 
+  </p></th>
 </tr>
 </table>
+
+<h4>My Website</h4>
+<p>
+  <a href="https://z1aaan.github.io/index.html" target="_blank"> 
+  <img style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;"
+  src="/images/github-logo.png" 
+  alt="Website" 
+  height="75" > </a>  
+</p>
 
 <h2 style="font-family: 'Courier New', Courier, monospace; float: left">Things I Know </h2>
 
