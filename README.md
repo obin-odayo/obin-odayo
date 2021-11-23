@@ -53,7 +53,7 @@
 
 <h2 style="font-family: 'Courier New', Courier, monospace;">Things I Know </h2>
 
-<table style="margin-left: auto; margin-right: auto;">
+<table>
   <tr>
     <th>
       <abbr title="C++">
@@ -180,5 +180,26 @@
     </th>
   </tr>
 </table>
+
+<h2 style="font-family: 'Courier New', Courier, monospace;">My Best Projects</h2>
+
+<table>
+      <h3>Collatzer</h3>
+      <tr>
+        <th>
+          A program created to visualize <br>
+          and simulate a user-given value <br>
+          for N and see what happens when <br>
+          it is put under the Collatz <br>
+          function.
+        </th>
+        <th>|</th>
+        <th>
+          <a href="https://github.com/Z1aaan/Collatzer"
+            ><img height="50" src="/images/github-logo.png" alt=""
+          /></a>
+        </th>
+      </tr>
+    </table>
 
 </ul>
