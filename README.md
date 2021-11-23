@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Z1aaan&theme=radical" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1aaan&layout=compact&theme=radical)]
+
+
+
 **Z1aaan/Z1aaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
