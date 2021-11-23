@@ -60,7 +60,7 @@
         <img height="50" src="/images/cpp-logo.png" alt="C++" />
       </abbr>
     </th>
-    <th><img height="50" src="/images/vertical-line.png" alt="" /></th>
+    <th> |</th>
     <th>
       <abbr title="CSS">
         <img height="50" src="/images/css-logo.png" alt="CSS" />
@@ -74,7 +74,7 @@
           <img height="50" src="/images/git-logo.png" alt="Git" />
       </abbr>
     </th>
-    <th><img height="50" src="/images/vertical-line.png" alt="" /></th>
+    <th> |</th>
     <th>
       <abbr title="GitHub">
         <img height="50" src="/images/github-logo.png" alt="GitHub" />
@@ -88,7 +88,7 @@
           <img height="50" src="/images/html-logo.png" alt="HTML" />
         </abbr>
     </th>
-    <th><img height="50" src="/images/vertical-line.png" alt="" /></th>
+    <th> |</th>
     <th>
         <abbr title="Java">
           <img height="50" src="/images/java-logo.png" alt="Java" />
@@ -102,7 +102,7 @@
           <img height="50" src="/images/jupyter-logo.png" alt="Jupyter" />
         </abbr>
     </th>
-    <th><img height="50" src="/images/vertical-line.png" alt="" /></th>
+    <th> |</th>
     <th>
         <abbr title="Latex, Tex, Katex">
           <img height="50" src="/images/latex-logo.png" alt="Latex, Tex, Katex" />
@@ -116,7 +116,7 @@
           <img height="50" src="/images/markdown-logo.png" alt="Markdown" />
         </abbr>
     </th>
-    <th><img height="50" src="/images/vertical-line.png" alt="" /></th>
+    <th> |</th>
     <th>
         <abbr title="MatLab">
           <img height="50" src="/images/matlab-logo.png" alt="MatLab" />
@@ -130,7 +130,7 @@
           <img height="50" src="/images/opengl-logo.png" alt="OpenGl" />
         </abbr>
     </th>
-    <th><img height="50" src="/images/vertical-line.png" alt="" /></th>
+    <th> |</th>
     <th>
         <abbr title="Pandas">
           <img height="50" src="/images/pandas-logo.png" alt="Pandas" />
@@ -144,7 +144,7 @@
           <img height="50" src="/images/pygame-logo.png" alt="PyGame" />
         </abbr>
     </th>
-    <th><img height="50" src="/images/vertical-line.png" alt="" /></th>
+    <th> |</th>
     <th>
         <abbr title="Python">
           <img height="50" src="/images/python-logo.png" alt="Python" />
@@ -158,7 +158,7 @@
           <img height="50" src="/images/simulink-logo.png" alt="Simulink" />
         </abbr>
     </th>
-    <th><img height="50" src="/images/vertical-line.png" alt="" /></th>
+    <th> |</th>
     <th>
         <abbr title="Scikit-learn">
           <img height="50" src="/images/sklearn-logo.png" alt="Scikit-learn" />
@@ -172,7 +172,7 @@
           <img height="50" src="/images/unity-logo.png" alt="Unity" />
         </abbr>
     </th>
-    <th><img height="50" src="/images/vertical-line.png" alt="" /></th>
+    <th> |</th>
     <th>
         <abbr title="YAML">
           <img height="50" src="/images/yaml-logo.png" alt="YAML" />
