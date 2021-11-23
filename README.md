@@ -4,6 +4,8 @@ My GitHub Stats             |  My Most Used Languages
 :----------------------------:|:----------------------------:
 ![](https://github-readme-stats.vercel.app/api?username=Z1aaan&theme=radical)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1aaan&layout=compact&theme=radical)
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/wCEyk7p"  ><a href="//imgur.com/a/wCEyk7p">A golden snub-nose monkey receiving a couple of berries</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 **Z1aaan/Z1aaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
