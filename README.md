@@ -8,12 +8,12 @@
 
 <p>
   <img style="
-  display: block;s
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 75%;" 
   src="https://github-readme-stats.vercel.app/api?username=Z1aaan&theme=radical" 
-  alt="My GitHUb Stats">
+  alt="My GitHub Stats">
 </p>
 
 <p>
