@@ -35,12 +35,17 @@
     height="100"></th>
   <th style="text-align: left"><p>
     <ul style="font-family: 'Courier New', Courier, monospace; font-size:12px">
-      <li> Hello I am Zhean "<i>Z1aaan</i>" Ganituen.
-      <li> An amateur python programmer
-      <li> Self studying computer programming, computer graphics, and artificial intelligence.
-      <li> <b>First Programming language</b>: Python 
-      <li> <b>Currently Learning</b>: Python Libraries, HTML and CSS
-      <li> <b>Contact</b>: Z1aaan#9904
+      Hello I am Zhean "<i>Z1aaan</i>" Ganituen.
+      <br> _ <br>
+      An amateur python programmer
+      <br> _ <br>
+      Self studying computer programming, computer graphics, and artificial intelligence
+      <br> _ <br>
+      <b>First Programming language</b>: Python 
+      <br> _ <br>
+      <b>Currently Learning</b>: Python Libraries, HTML and CSS
+      <br> _ <br>
+      <b>Contact</b>: Z1aaan#9904
     </ul> 
   </p></th>
 </tr>
