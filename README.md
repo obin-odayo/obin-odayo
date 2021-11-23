@@ -8,10 +8,10 @@
 
 <p>
   <img style="
-  display: block;
+  display: block;s
   margin-left: auto;
   margin-right: auto;
-  width: 100%;" 
+  width: 75%;" 
   src="https://github-readme-stats.vercel.app/api?username=Z1aaan&theme=radical" 
   alt="My GitHUb Stats">
 </p>
@@ -21,7 +21,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;" 
+  width: 75%;" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z1aaan&layout=compact&theme=radical"
   alt="My Most Used Languages">
     
@@ -31,18 +31,18 @@
   <a href="https://z1aaan.github.io/index.html" target="_blank"> 
   <img src="/images/github-logo.png" 
   alt="Website" 
-  height="75" 
-  style="float:left; clear:both"> </a>  
+  height="75" > </a>  
 </p>
 
-<h2 style="font-family: 'Courier New', Courier, monospace; float:left">About Me</h2>
+<h2 style="font-family: 'Courier New', Courier, monospace">About Me</h2>
 
+<table>
+<tr>
+<th>
 <img src="/images/golden-monkey.gif" 
-  height="75" 
-  style="float:right">
-
-<p>
-  <ul style="font-family: 'Courier New', Courier, monospace; float:right">
+  height="100"></th>
+<th><p style>
+  <ul style="font-family: 'Courier New', Courier, monospace; font-size:12px">
     <li> Hello I am Zhean "<i>Z1aaan</i>" Ganituen.
     <li> An amateur python programmer
     <li> Self studying computer programming, computer graphics, and artificial intelligence.
@@ -52,7 +52,9 @@
     <ul>Z1aaan#9904
     </ul>
   </ul> 
-</p>
+</p></th>
+</tr>
+</table>
 
 <h2 style="font-family: 'Courier New', Courier, monospace; float: left">Things I Know </h2>
 
