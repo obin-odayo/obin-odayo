@@ -30,7 +30,7 @@
   <h2 style="font-family: 'Courier New', Courier, monospace">About Me</h2>
   
   <table>
-  <tr>
+    <tr>
     <th><img src="/images/golden-monkey.gif" 
       height="100"></th>
     <th style="text-align: left"><p>
