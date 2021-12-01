@@ -195,8 +195,8 @@
   <tr>
     <th>A python package that converts <br> 
       plain text into a specified markup <br>
-      language using python.</th>
-        
+      language using python.
+    </th>
     <th>|</th>
     <th>
       <a href="https://github.com/Z1aaan/Epytoml"
