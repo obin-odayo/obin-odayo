@@ -71,12 +71,6 @@
   </tr>
   <tr>
     <th>
-      <abbr title="C++">
-        <img height="50" src="/images/cpp-logo.png" alt="C++" />
-      </abbr>
-    </th>
-    <th> |</th>
-    <th>
       <abbr title="CSS">
         <img height="50" src="/images/css-logo.png" alt="CSS" />
       </abbr>
@@ -110,13 +104,7 @@
   </tr>
   <tr>
     <th>
-        <abbr title="Jupyter">
-          <img height="50" src="/images/jupyter-logo.png" alt="Jupyter" />
-        </abbr>
-    </th>
-    <th> |</th>
-    <th>
-        <abbr title="Latex, Tex, Katex">
+        <abbr title="Latex">
           <img height="50" src="/images/latex-logo.png" alt="Latex, Tex, Katex" />
         </abbr>
     </th>
@@ -141,48 +129,12 @@
         </abbr>
     </th>
     <th> |</th>
-    <th>
-        <abbr title="Pandas">
-          <img height="50" src="/images/pandas-logo.png" alt="Pandas" />
-        </abbr>
-    </th>
   </tr>
   <tr>
-    <th>
-        <abbr title="PyGame">
-          <img height="50" src="/images/pygame-logo.png" alt="PyGame" />
-        </abbr>
-    </th>
     <th> |</th>
     <th>
         <abbr title="Python">
           <img height="50" src="/images/python-logo.png" alt="Python" />
-        </abbr>
-    </th>
-  </tr>
-  <tr>
-    <th>
-        <abbr title="Simulink">
-          <img height="50" src="/images/simulink-logo.png" alt="Simulink" />
-        </abbr>
-    </th>
-    <th> |</th>
-    <th>
-        <abbr title="Scikit-learn">
-          <img height="50" src="/images/sklearn-logo.png" alt="Scikit-learn" />
-        </abbr>
-    </th>
-  </tr>
-  <tr>
-    <th>
-        <abbr title="Unity">
-          <img height="50" src="/images/unity-logo.png" alt="Unity" />
-        </abbr>
-    </th>
-    <th> |</th>
-    <th>
-        <abbr title="YAML">
-          <img height="50" src="/images/yaml-logo.png" alt="YAML" />
         </abbr>
     </th>
   </tr>
