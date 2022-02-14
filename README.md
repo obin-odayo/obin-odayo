@@ -1,33 +1,3 @@
-<h1 style="font-family: 'Courier New', Courier, monospace;"><code>README.md</code></h1>
-
-<h1 style="font-family: 'Courier New', Courier, monospace;">
-  Hello!
-  <img style="width:7%"  src="/images/wave-hi.gif">,
-  I am <code>Z1aaan</code>
-</h1>
-
-<h2 style="font-family: 'Courier New', Courier, monospace;">GitHub Statistics</h2>
-
-<p>
-  <img style="
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 75%;" 
-  src="https://github-readme-stats.vercel.app/api?username=Z1aaan&theme=radical" 
-  alt="My GitHub Stats">
-</p>
-
-<p>
-  <img style="
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 75%;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z1aaan&layout=compact&theme=radical"
-  alt="My Most Used Languages">
-</p>
-
 <h2 style="font-family: 'Courier New', Courier, monospace">About Me</h2>
 
 <table>
